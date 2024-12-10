@@ -1,0 +1,38 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP.v 
+vlog -reportprogress 300 -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALU_TOP
+# 
+# Top level modules:
+# 	ALU_TOP
+vlog -reportprogress 300 -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ARITHMETIC_UNIT.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ass1.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/CMP_UNIT.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/Decoder_Unit.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/LOGIC_UNIT.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/SHIFT_UNIT.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALU_TOP
+# -- Compiling module ARITHMETIC_UNIT
+# ** Error: D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ARITHMETIC_UNIT.v(16): (vlog-2730) Undefined variable: 'clk'.
+# 
+# -- Compiling module CMP_UNIT
+# -- Compiling module Decoder_Unit
+# -- Compiling module LOGIC_UNIT
+# ** Error: D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/LOGIC_UNIT.v(13): (vlog-2730) Undefined variable: 'clk'.
+# 
+# -- Compiling module SHIFT_UNIT
+vlog -reportprogress 300 -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ARITHMETIC_UNIT.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ass1.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/CMP_UNIT.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/Decoder_Unit.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/LOGIC_UNIT.v D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/SHIFT_UNIT.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALU_TOP
+# -- Compiling module ARITHMETIC_UNIT
+# ** Error: D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ARITHMETIC_UNIT.v(16): (vlog-2730) Undefined variable: 'clk'.
+# 
+# -- Compiling module CMP_UNIT
+# -- Compiling module Decoder_Unit
+# -- Compiling module LOGIC_UNIT
+# -- Compiling module SHIFT_UNIT
+# Loading project ASS_4_0
+# Compile of LOGIC_UNIT.v was successful.
+# Compile of CMP_UNIT.v was successful.
+# Compile of Decoder_Unit.v was successful.
+# Compile of ALU_TOP.v was successful.
+# Compile of ARITHMETIC_UNIT.v was successful.
+# Compile of SHIFT_UNIT.v was successful.
+# 6 compiles, 0 failed with no errors. 

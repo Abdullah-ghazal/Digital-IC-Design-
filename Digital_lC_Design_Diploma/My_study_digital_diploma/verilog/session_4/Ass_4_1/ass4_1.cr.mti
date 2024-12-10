@@ -1,0 +1,15 @@
+D:/My_study_digital_diploma/verilog/session_4/Ass_4_1/Register_file.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_4/Ass_4_1/Register_file.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} D:/My_study_digital_diploma/verilog/session_4/Ass_4_1/Register_file_tb.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_4/Ass_4_1/Register_file_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_file_tb
+
+Top level modules:
+	Register_file_tb
+
+} {} {}}

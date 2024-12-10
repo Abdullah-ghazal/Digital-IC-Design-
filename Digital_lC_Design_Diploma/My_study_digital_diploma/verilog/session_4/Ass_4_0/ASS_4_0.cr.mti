@@ -1,0 +1,50 @@
+D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/CMP_UNIT.v {1 {vlog -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/CMP_UNIT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CMP_UNIT
+
+Top level modules:
+	CMP_UNIT
+
+} {} {}} D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP.v {1 {vlog -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_TOP
+
+Top level modules:
+	ALU_TOP
+
+} {} {}} D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP_tb.v {1 {vlog -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ALU_TOP_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_TOP_tb
+
+Top level modules:
+	ALU_TOP_tb
+
+} {} {}} D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/LOGIC_UNIT.v {1 {vlog -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/LOGIC_UNIT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LOGIC_UNIT
+
+Top level modules:
+	LOGIC_UNIT
+
+} {} {}} D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ARITHMETIC_UNIT.v {1 {vlog -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/ARITHMETIC_UNIT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ARITHMETIC_UNIT
+
+Top level modules:
+	ARITHMETIC_UNIT
+
+} {} {}} D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/Decoder_Unit.v {1 {vlog -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/Decoder_Unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_Unit
+
+Top level modules:
+	Decoder_Unit
+
+} {} {}} D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/SHIFT_UNIT.v {1 {vlog -work work D:/Digital_lC_Design_Diploma_#011/Assignments/Verilog/session_4/Ass_4_0/SHIFT_UNIT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SHIFT_UNIT
+
+Top level modules:
+	SHIFT_UNIT
+
+} {} {}}

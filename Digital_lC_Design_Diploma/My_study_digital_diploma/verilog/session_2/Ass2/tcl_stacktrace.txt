@@ -1,0 +1,18 @@
+Mon Mar 11 2:08:22 PM Egypt Standard Time 2024
+Trace back: couldn't open "D:/My_study_digital_diploma/verilog/session_2/Ass2/Ass2_tb.v": no such file or directory
+    while executing
+"open $name w+"
+    (procedure "Project::applyCreateSrcFile" line 42)
+    invoked from within
+"Project::applyCreateSrcFile .creates 0"
+    invoked from within
+".creates.bb.button0 invoke"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel #0 [list $w invoke]"
+    (procedure "tk::ButtonUp" line 24)
+    invoked from within
+"tk::ButtonUp .creates.bb.button0"
+    (command bound to event)
+  <2: ::tkerror {couldn't open "D:/My_study_digital_diploma/verilog/session_2/Ass2/Ass2_tb.v": no such file or directory}
+  <1: ::bgerror {couldn't open "D:/My_study_digital_diploma/verilog/session_2/Ass2/Ass2_tb.v": no such file or directory}

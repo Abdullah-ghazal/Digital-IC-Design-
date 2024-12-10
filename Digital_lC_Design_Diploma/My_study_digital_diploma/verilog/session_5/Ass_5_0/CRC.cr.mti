@@ -1,0 +1,15 @@
+D:/My_study_digital_diploma/verilog/session_5/Ass_5_0/CRC_TB.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_5/Ass_5_0/CRC_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CRC_TB
+
+Top level modules:
+	CRC_TB
+
+} {} {}} D:/My_study_digital_diploma/verilog/session_5/Ass_5_0/CRC.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_5/Ass_5_0/CRC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CRC
+
+Top level modules:
+	CRC
+
+} {} {}}

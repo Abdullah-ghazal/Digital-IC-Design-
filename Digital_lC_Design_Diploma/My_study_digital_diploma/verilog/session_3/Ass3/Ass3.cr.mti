@@ -1,0 +1,15 @@
+D:/My_study_digital_diploma/verilog/session_3/Ass3/ALU_tb.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_3/Ass3/ALU_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} D:/My_study_digital_diploma/verilog/session_3/Ass3/ALU.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_3/Ass3/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

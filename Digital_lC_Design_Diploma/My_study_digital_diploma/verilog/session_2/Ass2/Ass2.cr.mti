@@ -1,0 +1,15 @@
+D:/My_study_digital_diploma/verilog/session_2/Ass2/Ass2.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_2/Ass2/Ass2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ass2
+
+Top level modules:
+	Ass2
+
+} {} {}} D:/My_study_digital_diploma/verilog/session_2/Ass2/Ass2_tb.v {1 {vlog -work work D:/My_study_digital_diploma/verilog/session_2/Ass2/Ass2_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ass2_tb
+
+Top level modules:
+	Ass2_tb
+
+} {} {}}

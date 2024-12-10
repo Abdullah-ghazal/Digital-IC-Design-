@@ -1,0 +1,15 @@
+D:/My_study_digital_diploma/verilog/session_5/LFSR.v {1 {vlog -work work -vopt -nocovercells D:/My_study_digital_diploma/verilog/session_5/LFSR.v
+QuestaSim vlog 10.0b Compiler 2011.05 May  5 2011
+-- Compiling module LFSR
+
+Top level modules:
+	LFSR
+
+} {} {}} D:/My_study_digital_diploma/verilog/session_5/LFSR_TB.v {1 {vlog -work work -vopt -nocovercells D:/My_study_digital_diploma/verilog/session_5/LFSR_TB.v
+QuestaSim vlog 10.0b Compiler 2011.05 May  5 2011
+-- Compiling module LFSR_tb
+
+Top level modules:
+	LFSR_tb
+
+} {} {}}

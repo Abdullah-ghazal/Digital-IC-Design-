@@ -1,0 +1,81 @@
+$date
+	Wed Apr 10 03:13:04 2024
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module CRC_TB $end
+$var parameter 32 ! lfsr_wdth $end
+$var parameter 32 " crc_wdth $end
+$var parameter 32 # test_cases $end
+$var parameter 32 $ T $end
+$var reg 1 % DATA_tb $end
+$var reg 1 & Active_tb $end
+$var reg 1 ' clk_tb $end
+$var reg 1 ( rst_tb $end
+$var wire 1 ) CRC_tb $end
+$var wire 1 * Valid_tb $end
+$var wire 1 + CRC_TB $end
+$var integer 32 , j $end
+$scope task initialize $end
+$upscope $end
+$scope task reset $end
+$upscope $end
+$scope task do_trans $end
+$var reg 8 - data [7:0] $end
+$var integer 32 . i $end
+$upscope $end
+$scope task check_crc $end
+$var reg 8 / excepcted_output [7:0] $end
+$var reg 1 0 test_n $end
+$var reg 8 1 current_output [7:0] $end
+$var integer 32 2 k $end
+$upscope $end
+$scope module dut $end
+$var wire 1 3 DATA $end
+$var wire 1 4 Active $end
+$var wire 1 5 clk $end
+$var wire 1 6 rst $end
+$var reg 1 7 CRC $end
+$var reg 1 8 Valid $end
+$var reg 8 9 LFSR [7:0] $end
+$var wire 1 : feedback $end
+$var reg 4 ; count [3:0] $end
+$var wire 1 < done $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+0&
+0'
+1(
+x7
+x8
+bx 9
+bx ;
+bx -
+bx /
+x0
+bx 1
+b1000 !
+b1000 "
+b1010 #
+b1010 $
+b0 ,
+bx .
+bx 2
+z)
+x*
+x+
+x:
+x<
+16
+05
+04
+03
+$end
